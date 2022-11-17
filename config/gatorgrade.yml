@@ -39,12 +39,12 @@
         tag: heading
         count: 3
         exact: true
-    - description: Confirm an existance of (1) list
-      check: CountMarkdownLists
-      options:
-        tag: list
-        count: 3
-        exact: true
+    #- description: Confirm an existance of (1) list
+    #  check: CountMarkdownLists
+    #  options:
+    #    tag: list
+    #    count: 3
+    #    exact: true
     - description: Complete all TODOs, remove the TODO markers in the report.md
       check: MatchFileFragment
       options:
@@ -111,7 +111,7 @@
         count: 0
         exact: true
 # count number of commits in the GitHub repository
-- description: Have at least a specific minimum number of commits (6) in repository
+- description: Have at least a specific minimum number of commits (15) in repository
   check: CountCommits
   options:
-    count: 6
+    count: 15

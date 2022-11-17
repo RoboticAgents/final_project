@@ -127,18 +127,12 @@ All grades for this project will be reported through a student's gradebook GitHu
 
 ### GatorGrade
 
-You can check the baseline writing and commit requirements of this project by running department's assignment checking `gatorgrade` tool To use `gatorgrade`, you first need to make sure you have Python installed. If not, please see:
-
-- [Setting Up Python on Windows](https://realpython.com/lessons/python-windows-setup/)
-- [Python 3 Installation and Setup Guide](https://realpython.com/installing-python/)
-- [How to Install Python 3 and Set Up a Local Programming Environment on Windows 10](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-windows-10)
-
-Then, you need to install `gatorgrade`:
+You can check the baseline writing and commit requirements of this project by running department's assignment checking `gatorgrade` tool. To use `gatorgrade`, you first need to make sure you have Python installed. Then, you need to install `gatorgrade`:
 
 - First, [install `pipx`](https://pypa.github.io/pipx/installation/)
 - Then, install `gatorgrade` with `pipx install gatorgrade`
 
-Finally, you can run `gatorgrade`:
+Finally, you can run `gatorgrade` to check baseline writing and commit requirements:
 
 `gatorgrade --config config/gatorgrade.yml`
 
