@@ -8,21 +8,15 @@
 - [Team Assignments](#team-assignments)
 - [Core Requirements](#core-requirements)
 - [Project Ideas](#project-ideas)
-
   - [GoPiGo3](#gopigo)
   - [Bebop](#bebop)
   - [evoarm](#evoarm)
   - [turtlebot](#turtlebot)
   - [robot simulation](#robot-simulation)
-
 - [Proposal](#proposal)
-
 - [Working Prototype and Progress Report](#working-prototype-and-progress-report)
-
 - [Project Demonstrations](#project-demonstrations)
-
 - [Assessment](#assessment)
-
 - [Receiving Assistance](#assistance)
 
 ## Timeline

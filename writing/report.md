@@ -1,6 +1,6 @@
 # Report by Add Team Member Names
 
-## Project Summary 
+## Project Summary
 
 TODO: Describe the completed project. Provide motivation for your project, application that your robot is utilized for, specific goals/tasks it completes, and include any background references you used to develop the idea for your project (links are okay).
 
@@ -20,19 +20,19 @@ Based on your experiences with the project and from our discussions in class, pl
 
 TODO: Add an answer to the question above.
 
-2. Who are the intended users of this robotic application? How does this technology benefit them?
+1. Who are the intended users of this robotic application? How does this technology benefit them?
 
 TODO: Add an answer to the question above.
 
-3. Who is not supposed to use this technology? Why?
+1. Who is not supposed to use this technology? Why?
 
 TODO: Add an answer to the question above.
 
-4. How can the type of robotic application implemented in your project cause harm?
+1. How can the type of robotic application implemented in your project cause harm?
 
 TODO: Add an answer to the question above.
 
-5. What solutions can be developed to avoid the harm caused by this type of technology or to fix the harm?
+1. What solutions can be developed to avoid the harm caused by this type of technology or to fix the harm?
 
 TODO: Add an answer to the question above.
 
