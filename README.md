@@ -85,10 +85,9 @@ You are welcome to reuse existing code but you must either customize it or exten
 
 ### turtlebot
 
-- [Various navigation strategies](https://github.com/turtlebot/turtlebot4_tutorials/tree/galactic/turtlebot4_python_tutorials/turtlebot4_python_tutorials).
-- Object recognition. See the bottom of []() to see how to use the camera.
+- [Various navigation strategies](https://github.com/turtlebot/turtlebot4_tutorials/tree/galactic/turtlebot4_python_tutorials/turtlebot4_python_tutorials) with [turtlebot 4 navigator](https://turtlebot.github.io/turtlebot4-user-manual/tutorials/navigation.html#turtlebot-4-navigator).
+- Object recognition. See the bottom of [TurtlebotIsGo Unit](https://github.com/turtlebot/TurtleBot4Lessons/blob/main/units/Unit00-TB4-Introduction/L02-TurtleBotIsGo/U00-L02-TurtleBotIsGo.md) to see how to enable the camera in RViz.
 - Multi-robot information exchange using ROS for some task, for example sending command from one turtlebot to another.
-- Robot follower (robots that follow each other autonomously).
 
 ### Robot Simulation
 
