@@ -1,10 +1,10 @@
 ### Arm Control 
 
+Webapp for basic control and sequence management is at `http://ip.add.re.ss:9072/`
+
 There are two ways to control the arm *remotely* via code:
 
 #### ROS
-
-- Webapp for basic control and sequence management is at http://ip.add.re.ss:9072/
 
 - ssh login to the raspberry-pi is `pi`, password `evodyne2020`
 
@@ -17,12 +17,12 @@ You can change the rosmaster in `~/ros_master.txt` to point it at a different ma
 #### HTTP
 
 You can use simple HTTP rest commands from any external/on-board script/program to access the arm position and send movement commands, like so:
-http://192.168.1.75:9072/command?cmd=direct&v1=r:233.915,h:110,v:30,a:97.80102
+`http://192.168.1.75:9072/command?cmd=direct&v1=r:233.915,h:110,v:30,a:97.80102`
 where:
 - `r` is radius, distance of gripper tip from center of base
 - `h` is height of gripper tip
 - `v` is angle of gripper from vertical, 0 being straight down
-- 
+
 Together `r`, `h`, `v` define the 2D position of the gripper using inverse kinematics.
 By adding the base swivel angle using "a", allows for specifying a 3d position in range of motion
 
