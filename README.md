@@ -2,8 +2,6 @@
 
 ## Table of Contents
 
-- [Timeline](#timeline)
-- [Class Community Guidelines](#class-community-guidelines)
 - [Summary](#summary)
 - [Team Assignments](#team-assignments)
 - [Core Requirements](#core-requirements)
@@ -19,32 +17,17 @@
 - [Assessment](#assessment)
 - [Receiving Assistance](#assistance)
 
-## Timeline
-
-Activity                                                                      | Deadline
------------------------------------------------------------------------------ | ------------------------------------------
-Create a team and complete proposal (including any additional hardware needs) | by 4:20pm on Thursday, November 17th, 2022
-Demonstrate progress during class work time (commits from each member)        | by 10:45am on Tuesday, November 22nd, 2022
-Working prototype and complete progress report                                | by 4:20pm on Thursday, December 1st, 2022
-Final demo and submission                                                     | by 9:30am on Tuesday, December 13th, 2022
-
-## Class Community Guidelines
-
-Throughout the completion of this project you must adhere to the [community guidelines](https://github.com/CMPSC-311-Allegheny-College-Fall-2022/course-information/blob/main/community_guidelines.md) that we developed as a class. To report any violations of the code of conduct, please submit an [anonymous form](https://forms.gle/tePfnLY12hyN1Xbd6). Students who think that the class should revise some aspect of the guidelines must use the GitHub issue tracker for that repository to suggest, discuss, and implement any required changes.
-
-By working on and completing this assignment you agree to use the hardware given to you in a responsible manner. Each team is responsible for the safety and security of the robot while it is in your possession. You are allowed to take the robots used in this project outside of ALIC but you have to return all parts at the completion of this project, or if requested, at the end of the semester.
-
 ## Summary
 
 This project assignment invites you to work in individually or in a team of two or three to implement a robot fulfilling a specific goal/task. Your project should design and implement a robotic system for some application of your choice using one of the robotic platforms used in this course. You could select to design and implement a multi-robot system, where more than one robot complete the goal/task, in which case it might be appropriate for two or more teams to collaborate.
 
 ## Team Assignments
 
-You are invited to work in a self-selected team of two or three. Alternatively, you are also able to work individually. Once you have identified your team or that you prefer to work individually, please indicate it in the [team assignments](https://docs.google.com/spreadsheets/d/1167k-1ZGXR8TJqWdfp61kC7IDzhSVTUTHP7-Urx7ehc/edit?usp=sharing) spreadsheet so that we can ensure we have enough robots for everyone's preferences.
+You are invited to work in a self-selected team of two or three. Alternatively, you are also able to work individually. 
 
 ## Core Requirements
 
-1. Your project must be approved by the instructor before you start working on it. The instructor will assess the viability of proposed projects after the lab session on November 17th and provide feedback via a review in GitHub Classroom pull request.
+1. Your project must be approved by the instructor before you start working on it. The instructor will assess the viability of proposed projects and provide feedback via a review in GitHub Classroom pull request.
 2. Your project must be developed for a specific application using a robotic system. You need to research the problem you select to get an idea of what has been already done. You must include references to existing work in your final report and justify why using your particular system is appropriate.
 3. Your project must have an implementation component. You may write your code from scratch or reuse and extend some existing code. Obviously, anything you use that is not yours must be documented (in the source code and in the report).
 4. Your project must be extensive enough to qualify as a project (think of an extension for one of the lab projects), but not too extensive so that you can not finish it by the deadline.
@@ -94,11 +77,11 @@ You are invited to develop a project idea by the end of the lab session on Novem
 
 ## Working Prototype and Progress Report
 
-During the lab session on Thursday, December 1st, each team will participate in demonstrating their working prototype. Prototype here means a functional but not a final version of a robotic system. This prototype should contain implementation of partial functionality of your project idea. This prototype should be ready to be demonstrated during the robotics community event. You are also responsible for complete a progress report document by the end of the lab session on December 1st.
+During the mid-point of the project timeline, each team will participate in demonstrating their working prototype. Prototype here means a functional but not a final version of a robotic system. This prototype should contain implementation of partial functionality of your project idea. This prototype should be ready to be demonstrated during the robotics community event. You are also responsible for complete a progress report document by the end of the lab session on December 1st.
 
 ## Project Demonstrations
 
-At the beginning of the class session on Thursday, December 13th, each team will be given an opportunity to demonstrate their project. When the class session starts, teams will be given a few minutes to set up their demonstrations and get them running. Then, class members will participate in an interactive demonstration session, where everyone will be able to view each demonstration.
+At the due date, each team will be given an opportunity to demonstrate their project. When the class session starts, teams will be given a few minutes to set up their demonstrations and get them running. Then, class members will participate in an interactive demonstration session, where everyone will be able to view each demonstration.
 
 ## Assessment
 
